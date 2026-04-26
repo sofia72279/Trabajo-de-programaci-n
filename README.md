@@ -7,7 +7,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **C#** conectada 
 * **Persona 2:** Gabriela Abigail Torres — Especialista CRUD Autor
 * **Persona 3:** Sara Verenice Constancia — Especialista CRUD Categoría
 * **Persona 4:** Stephanie Tatiana Flores — Integradora y UI Designer
-* **Persona 5 (Líder):** Liz Rivas — GitHub & QA (Calidad)
+* **Persona 5 (Líder):** Sofia Lizeth Rivas — GitHub & QA (Calidad)
 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** C# (.NET)
