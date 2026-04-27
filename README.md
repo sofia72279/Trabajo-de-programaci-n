@@ -17,5 +17,4 @@ Este proyecto es una aplicación de escritorio desarrollada en **C#** conectada 
 ## 📂 Estructura del Repositorio
 * `/01_SQL`: Contiene los scripts para generar las tablas y la base de datos.
 * `/02_Codigo`: Contiene la solución de Visual Studio con el código fuente.
-* `/03_Docs`: Documentación final y capturas de pantalla del funcionamiento.
 *
