@@ -1,0 +1,7 @@
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.Form1.resources
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.csproj.GenerateResource.cache
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.AssemblyInfoInputs.cache
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.AssemblyInfo.cs
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Autores.csproj.CoreCompileInputs.cache
+C:\Users\eunic\OneDrive\Escritorio\App Forms\Autores\obj\Debug\net10.0-windows\Form1.resources
